@@ -132,11 +132,11 @@ export default function Team() {
               These skills include creating infographics, writing professional
               memorandums, and conducting thorough research. Engaging with this
               topic has been particularly challenging, as it represents a true
-              "wicked problem" one that is complex, difficult to define, and
-              resistant to straightforward solutions. The limited information on
-              the issue made the research process more difficult, and finding
-              solutions to contribute to ongoing efforts was even more
-              difficult. We ended up settling on spreading awareness of the
+              &quot;wicked problem&quot; one that is complex, difficult to
+              define, and resistant to straightforward solutions. The limited
+              information on the issue made the research process more difficult,
+              and finding solutions to contribute to ongoing efforts was even
+              more difficult. We ended up settling on spreading awareness of the
               issue and possibly having Cutler Health Center price lock student
               and faculty member care, so students don&apos;t have medical debt
               on top of their student loan debt.
