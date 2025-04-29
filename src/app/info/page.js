@@ -31,9 +31,9 @@ export default function Infographic() {
           </h1>
 
           <iframe
-            src="https://drive.google.com/file/d/1t3zyOzg7_yLCe0BVr2IrS_X4BLiMChTq/preview"
+            src="https://drive.google.com/file/d/1nlWEL55bgx5lDZkAn-GhcgyCbcJFWipe/preview"
             width="640"
-            height="640"
+            height="480"
             allow="autoplay"
             className="w-full max-w-4xl mx-auto"
           ></iframe>

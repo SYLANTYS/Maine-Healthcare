@@ -50,11 +50,11 @@ export default function Team() {
             </div>
             <div className="flex-shrink-0 p-4">
               <Image
-                src="/Stillwater.jpg"
+                src="/grey.jpg"
                 alt="Grey Vanderwood"
                 width={300}
                 height={300}
-                className="rounded-lg object-cover"
+                className="rounded-lg object-cover border border-gray-300"
               />
             </div>
           </div>
@@ -126,13 +126,20 @@ export default function Team() {
               className="indent-8  mb-20"
               style={{ fontFamily: "Times New Roman, serif" }}
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              This Wicked Problems project has given me a valuable opportunity
+              to explore important issues within my field of study while
+              applying a variety of skills developed throughout the semester.
+              These skills include creating infographics, writing professional
+              memorandums, and conducting thorough research. Engaging with this
+              topic has been particularly challenging, as it represents a true
+              "wicked problem" one that is complex, difficult to define, and
+              resistant to straightforward solutions. The limited information on
+              the issue made the research process more difficult, and finding
+              solutions to contribute to ongoing efforts was even more
+              difficult. We ended up settling on spreading awareness of the
+              issue and possibly having Cutler Health Center price lock student
+              and faculty member care, so students don't have medical debt on
+              top of their student loan debt.
             </p>
             <h2 className="text-lg font-bold mb-6 text-black">
               Haley Ryan - Reflections
