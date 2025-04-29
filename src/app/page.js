@@ -72,21 +72,21 @@ export default function Page() {
             students and staff if they stop providing healthcare to UMaine. The
             debt can be attributed to MaineCare and Medicare says Northern Light
             Health Chief Financial Officer James Rohrbaugh “with Medicare and
-            MaineCare reimbursements, there’s a $300 million difference yearly
-            between what it costs to care for patients and what Northern Light
-            is paid” (NewsCenterMaine). Due to the $620 million in debt,
+            MaineCare reimbursements, there&apos;s a $300 million difference
+            yearly between what it costs to care for patients and what Northern
+            Light is paid” (NewsCenterMaine). Due to the $620 million in debt,
             Northern Light has to increase the cost for goods and service to
             combat their financial issue (Observer ME).
             <br></br>
             <br></br>
             <br></br>
             We aim to bring awareness to healthcare access and affordability on
-            the University of Maine’s campus. The potential for Northern Light
-            Health to increase healthcare prices is relevant to UMaine staff,
-            especially since Northern Light has closed hospitals recently,
-            likely attempting to reduce their debts, which are in the hundreds
-            of millions. These issues affect the access to healthcare and
-            quality of healthcare delivered to students. As a result, the
+            the University of Maine&apos;s campus. The potential for Northern
+            Light Health to increase healthcare prices is relevant to UMaine
+            staff, especially since Northern Light has closed hospitals
+            recently, likely attempting to reduce their debts, which are in the
+            hundreds of millions. These issues affect the access to healthcare
+            and quality of healthcare delivered to students. As a result, the
             overall job security of employees due to budget cuts is jeopardized.
           </p>
           <h2 className="text-2xl font-bold mb-6 text-blue-900 text-center mt-16">

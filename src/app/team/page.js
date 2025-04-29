@@ -38,14 +38,14 @@ export default function Team() {
                 Grey Vanderwood
               </h2>
               <p style={{ fontFamily: "Times New Roman, serif" }}>
-                What up y’all! I am currently a junior at the University of
+                What up y&apos;all! I am currently a junior at the University of
                 Maine, majoring in kinesiology and exercise science with a minor
                 in political science and legal studies. Working in the health
                 field, I often hear discussions about health care access and
                 affordability. I recently completed a similar project in another
                 class, which further highlighted the importance of this topic.
-                It’s crucial for everyone to understand, as it directly impacts
-                both health and finances.{" "}
+                It&apos;s crucial for everyone to understand, as it directly
+                impacts both health and finances.{" "}
               </p>
             </div>
             <div className="flex-shrink-0 p-4">
@@ -138,8 +138,8 @@ export default function Team() {
               solutions to contribute to ongoing efforts was even more
               difficult. We ended up settling on spreading awareness of the
               issue and possibly having Cutler Health Center price lock student
-              and faculty member care, so students don't have medical debt on
-              top of their student loan debt.
+              and faculty member care, so students don&apos;t have medical debt
+              on top of their student loan debt.
             </p>
             <h2 className="text-lg font-bold mb-6 text-black">
               Haley Ryan - Reflections
