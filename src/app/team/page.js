@@ -54,7 +54,7 @@ export default function Team() {
                 alt="Grey Vanderwood"
                 width={300}
                 height={300}
-                className="rounded-lg object-cover border border-gray-300"
+                className="rounded-lg object-cover border border-gray-300 shadow-lg shadow-gray-500/50"
               />
             </div>
           </div>
@@ -82,7 +82,7 @@ export default function Team() {
                 alt="Haley Ryan"
                 width={300}
                 height={300}
-                className="rounded-lg object-cover"
+                className="rounded-lg object-cover shadow-lg shadow-gray-500/50"
               />
             </div>
           </div>
@@ -94,13 +94,16 @@ export default function Team() {
                 Patrick Sylantys
               </h2>
               <p style={{ fontFamily: "Times New Roman, serif" }}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Hey everyone! I&apos;m currently a junior at the University of
+                Maine, double majoring in Finance and Business Information
+                Systems with a minor in Mechanical Engineering. I&apos;ve always
+                been interested in how large-scale systems, such as healthcare,
+                impact both individuals and the economy. I was an analyst for
+                the healthcare sector for SPIFFY, which gave me a deeper look
+                into the financial and operational challenges within the
+                healthcare industry. It&apos;s an issue that affects not only
+                personal well-being but also our communities&apos; long-term
+                stability.
               </p>
             </div>
             <div className="flex-shrink-0 p-4">
@@ -109,7 +112,7 @@ export default function Team() {
                 alt="Patrick Sylantys"
                 width={300}
                 height={300}
-                className="rounded-lg object-cover"
+                className="rounded-lg object-cover shadow-lg shadow-gray-500/50"
               />
             </div>
           </div>
@@ -175,13 +178,46 @@ export default function Team() {
               className="indent-8"
               style={{ fontFamily: "Times New Roman, serif" }}
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              This Wicked Problems project gave me the chance to apply skills
+              from English 317 to a real-world issue, combining research,
+              writing, and design in a meaningful way. One of the biggest
+              takeaways from the course was learning how to write to specific
+              audiences, something we practiced through one-pagers, professional
+              letters, and the white paper. For this project, our intended
+              audience included students, university administrators, and
+              healthcare staff, so we had to adapt our tone and structure
+              accordingly. We used rhetorical strategies such as ethos by
+              including bios that showed our personal connection to the issue
+              and logos by presenting statistics and a clear graphic in our
+              infographic to highlight the state of healthcare accessibility in
+              Maine. Instead of proposing a solution that might overreach our
+              role, we chose to focus on awareness, encouraging people at UMaine
+              to consider where the system may fall short and ask the right
+              questions. That goal informed not only our message but also the
+              structure of our white paper and supporting materials.
+            </p>
+            <br></br>
+            <p
+              className="indent-8"
+              style={{ fontFamily: "Times New Roman, serif" }}
+            >
+              I built the project website, where I applied design principles
+              from class to ensure our content was visually effective. We used
+              contrast to make important elements stand out, centered key
+              information on each page for better visibility, and repeated
+              visual elements like dark blue headers to keep the design
+              consistent. Our team divided the work strategically: some focused
+              on research, others developed public-facing materials like the
+              infographic, one led the slideshow, and I handled the website.
+              This collaboration mirrored real-world projects like pitch decks
+              or internal reports, where each person brings a specific skill,
+              but the pieces must align. The experience helped me better
+              understand how to combine clarity, design, and persuasion to
+              communicate a complex topic. It also showed how technical writing
+              and design principles can make an issue more accessible to people
+              who might not have background knowledge. These are skills I can
+              carry into finance, where presenting data clearly and persuasively
+              is often just as important as the numbers themselves.
             </p>
           </div>
         </main>

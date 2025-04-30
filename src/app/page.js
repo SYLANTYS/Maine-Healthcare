@@ -35,7 +35,9 @@ export default function Page() {
             priority
           />
           <div className="absolute inset-0 flex items-center justify-center bg-black/50">
-            <h1 className="text-white text-4xl font-light">Maine Healthcare</h1>
+            <h1 className="text-white text-4xl font-light">
+              Healthcare Accessibility in Maine
+            </h1>
           </div>
         </div>
         <p className="text-gray-400 text-xs bg-white p-2 text-center">
