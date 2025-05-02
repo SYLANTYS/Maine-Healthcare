@@ -74,20 +74,21 @@ export default function Page() {
             reflect broader challenges in rural healthcare delivery rather than
             isolated issues. These changes could potentially impact UMaine
             students and staff if access to on-campus healthcare becomes
-            limited. According to Northern Light's Chief Financial Officer James
-            Rohrbaugh, &quot;with Medicare and MaineCare reimbursements, there's
-            a $300 million difference yearly between what it costs to care for
-            patients and what Northern Light is paid&quot; (NewsCenterMaine).
-            The organization also carries approximately $620 million in debt,
-            which has contributed to increased costs for some goods and services
-            in an effort to maintain financial stability (Observer ME).
+            limited. According to Northern Light&apos;s Chief Financial Officer
+            James Rohrbaugh, &quot;with Medicare and MaineCare reimbursements,
+            there&apos;s a $300 million difference yearly between what it costs
+            to care for patients and what Northern Light is paid&quot;
+            (NewsCenterMaine). The organization also carries approximately $620
+            million in debt, which has contributed to increased costs for some
+            goods and services in an effort to maintain financial stability
+            (Observer ME).
             <br></br>
             <br></br>
             <br></br>
             We aim to bring awareness to the growing concerns around healthcare
             affordability and access at the University of Maine. The possibility
             of rising healthcare prices is especially relevant to UMaine
-            students and staff, given Northern Light's recent hospital
+            students and staff, given Northern Light&apos;s recent hospital
             restructuring. These financial strains not only affect the
             accessibility and quality of care, but also have the potential to
             impact the job security of campus health workers. By highlighting
