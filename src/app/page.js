@@ -60,36 +60,40 @@ export default function Page() {
             with other issues and across sectors. These problems cannot be
             resolved but only improved upon. They need to be addressed in
             creative ways by people with different backgrounds to get the full
-            picture of the problem.
+            picture of the problem. Our wicked problem is healthcare access in
+            Maine, particularly how it affects the University of Maine
+            community, where Northern Light Health is a key provider. According
+            to a 2021 survey of about 920 Maine adults, 80% expressed concern
+            about affording healthcare in the future (Healthcare Value Hub).
             <br></br>
             <br></br>
             <br></br>
-            Our wicked problem is dealing with health care access in Maine,
-            primarily Northern Light Health Care since they provide medical care
-            on the University of Maine campus. According to a survey of around
-            920 Maine adults in October 2021, 80% are worried about affording
-            healthcare in the future (Healthcare Value Hub). Recently, Northern
-            Light has had to close one of their hospitals and relocate others
-            due to revenue issues and debt. This could potentially impact UMaine
-            students and staff if they stop providing healthcare to UMaine. The
-            debt can be attributed to MaineCare and Medicare says Northern Light
-            Health Chief Financial Officer James Rohrbaugh “with Medicare and
-            MaineCare reimbursements, there&apos;s a $300 million difference
-            yearly between what it costs to care for patients and what Northern
-            Light is paid” (NewsCenterMaine). Due to the $620 million in debt,
-            Northern Light has to increase the cost for goods and service to
-            combat their financial issue (Observer ME).
+            Like many healthcare systems across the country, Northern Light
+            Health has faced significant financial pressure. One of its
+            hospitals was closed and others relocated—decisions that likely
+            reflect broader challenges in rural healthcare delivery rather than
+            isolated issues. These changes could potentially impact UMaine
+            students and staff if access to on-campus healthcare becomes
+            limited. According to Northern Light's Chief Financial Officer James
+            Rohrbaugh, &quot;with Medicare and MaineCare reimbursements, there's
+            a $300 million difference yearly between what it costs to care for
+            patients and what Northern Light is paid&quot; (NewsCenterMaine).
+            The organization also carries approximately $620 million in debt,
+            which has contributed to increased costs for some goods and services
+            in an effort to maintain financial stability (Observer ME).
             <br></br>
             <br></br>
             <br></br>
-            We aim to bring awareness to healthcare access and affordability on
-            the University of Maine&apos;s campus. The potential for Northern
-            Light Health to increase healthcare prices is relevant to UMaine
-            staff, especially since Northern Light has closed hospitals
-            recently, likely attempting to reduce their debts, which are in the
-            hundreds of millions. These issues affect the access to healthcare
-            and quality of healthcare delivered to students. As a result, the
-            overall job security of employees due to budget cuts is jeopardized.
+            We aim to bring awareness to the growing concerns around healthcare
+            affordability and access at the University of Maine. The possibility
+            of rising healthcare prices is especially relevant to UMaine
+            students and staff, given Northern Light's recent hospital
+            restructuring. These financial strains not only affect the
+            accessibility and quality of care, but also have the potential to
+            impact the job security of campus health workers. By highlighting
+            this issue, we hope to encourage more informed conversations about
+            how healthcare systems, universities, and policymakers can work
+            together to support community health.
           </p>
           <h2 className="text-2xl font-bold mb-6 text-blue-900 text-center mt-16">
             Questions?
