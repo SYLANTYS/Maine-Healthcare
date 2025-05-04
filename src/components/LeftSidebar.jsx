@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function LeftSidebar() {
   return (
-    <aside className="w-[15%] bg-black p-6 ml-5 mt-5">
+    <aside className="w-[16%] bg-black pl-11 pt-11">
       <Link href="/">
         <h2 className="text-2xl text-white font-bold my-20">
           Maine <br></br> Healthcare

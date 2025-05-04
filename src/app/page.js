@@ -21,7 +21,7 @@ export default function Page() {
   return (
     <div className="flex min-h-screen">
       {/* Sidebar */}
-      {!isMobile && <LeftSidebar />}
+      <LeftSidebar />
 
       {/* Main + Footer */}
       <div className="flex flex-col flex-1">
