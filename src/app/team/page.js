@@ -39,13 +39,13 @@ export default function Team() {
               </h2>
               <p style={{ fontFamily: "Times New Roman, serif" }}>
                 What up y&apos;all! I am currently a junior at the University of
-                Maine, majoring in kinesiology and exercise science with a minor
-                in political science and legal studies. Working in the health
-                field, I often hear discussions about health care access and
-                affordability. I recently completed a similar project in another
-                class, which further highlighted the importance of this topic.
-                It&apos;s crucial for everyone to understand, as it directly
-                impacts both health and finances.{" "}
+                Maine (Class of 2026), majoring in kinesiology and exercise
+                science with a minor in political science and legal studies.
+                Working in the health field, I often hear discussions about
+                health care access and affordability. I recently completed a
+                similar project in another class, which further highlighted the
+                importance of this topic. It&apos;s crucial for everyone to
+                understand, as it directly impacts both health and finances.{" "}
               </p>
             </div>
             <div className="flex-shrink-0 p-4">
@@ -67,13 +67,14 @@ export default function Team() {
               </h2>
               <p style={{ fontFamily: "Times New Roman, serif" }}>
                 I am a Sophomore studying Biology with a Pre-Medical
-                concentration at the University of Maine. I am very passionate
-                about helping people who are more vulnerable in the community. I
-                have had very close family members and friends experience the
-                impact of the lack of access to healthcare and the struggle with
-                healthcare affordability. I think that it is extremely important
-                to seek solutions for this worldwide problem so that the overall
-                health and well-being of our community can increase.{" "}
+                concentration at the University of Maine (Class of 2027). I am
+                very passionate about helping people who are more vulnerable in
+                the community. I have had very close family members and friends
+                experience the impact of the lack of access to healthcare and
+                the struggle with healthcare affordability. I think that it is
+                extremely important to seek solutions for this worldwide problem
+                so that the overall health and well-being of our community can
+                increase.{" "}
               </p>
             </div>
             <div className="flex-shrink-0 p-4">
@@ -94,16 +95,16 @@ export default function Team() {
                 Patrick Sylantys
               </h2>
               <p style={{ fontFamily: "Times New Roman, serif" }}>
-                Hey everyone! I&apos;m currently a junior at the University of
-                Maine, double majoring in Finance and Business Information
-                Systems with a minor in Mechanical Engineering. I&apos;ve always
-                been interested in how large-scale systems, such as healthcare,
-                impact both individuals and the economy. I was an analyst for
-                the healthcare sector for SPIFFY, which gave me a deeper look
-                into the financial and operational challenges within the
-                healthcare industry. It&apos;s an issue that affects not only
-                personal well-being but also our communities&apos; long-term
-                stability.
+                Hey everyone! I&apos;m currently a sophomore at the University
+                of Maine (Class of 2027), double majoring in Finance and
+                Business Information Systems with a minor in Mechanical
+                Engineering. I&apos;ve always been interested in how large-scale
+                systems, such as healthcare, impact both individuals and the
+                economy. I was an analyst for the healthcare sector for SPIFFY,
+                which gave me a closer look into the financial and operational
+                challenges within the healthcare industry. Our issue of health
+                care affordability affects not only personal well-being but also
+                our communities&apos; future.
               </p>
             </div>
             <div className="flex-shrink-0 p-4">
